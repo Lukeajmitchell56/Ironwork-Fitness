@@ -1,0 +1,60 @@
+body {
+   font-family: 'Noto Sans SC', sans-serif;
+}
+
+.callout-container {
+    height: 80vh;
+
+    background: url('/assets/images/hero.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar-brand{
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
+    font-size: 30px;
+}
+
+.divider {
+    width: 150px;
+    height: 5px;
+    border: 0;
+    background-color: #7FFFD4;
+    margin-top: 30px;
+}
+
+.btn-style{
+    border-radius: 20px;
+    width: 140px;
+    font-weight: bold;
+}
+
+.btn--white{
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+
+/*jumbotron*/
+
+.jumbotron {
+    background: transparent;
+}
+
+.jumbotron-header {
+    font-family: 'Bebas Neue', cursive;
+    color:white;
+    margin-bottom: 90px;
+    margin-top: 120px;
+}
+
+.jumbotron p {
+    color: white;
+    margin-bottom: 20px;
+}

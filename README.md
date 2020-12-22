@@ -2,6 +2,23 @@
 
 Welcome Lukeajmitchell56,
 
+Found on Pexels.com
+
+Photo by Andrea Piacquadio from Pexels: https://www.pexels.com/photo/selective-focus-photography-of-woman-in-white-sports-brassiere-standing-near-woman-sitting-on-pink-yoga-mat-864939/
+
+Photo by Gustavo Fring from Pexels: https://www.pexels.com/photo/photo-of-people-jogging-4148937/
+
+<span>Photo by <a href="https://unsplash.com/@visualsbyroyalz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Anastase Maragos</a> on <a href="https://unsplash.com/s/photos/gym?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+Found on Pixabay.com
+Image by <a href="https://pixabay.com/users/haticeerol-14967706/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4978511">Hatice EROL</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4978511">Pixabay</a>
+
+Image by <a href="https://pixabay.com/users/febrianes86-5873902/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5562104">febrian eka saputra</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5562104">Pixabay</a>
+
+Image by <a href="https://pixabay.com/users/shafin_protic-16278454/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5306538">Shafin Al Asad Protic</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5306538">Pixabay</a>
+
+Image by <a href="https://pixabay.com/users/dapple-designers-7874104/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5000684">digital designer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5000684">Pixabay</a>
+
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
 
 ## Gitpod Reminders
