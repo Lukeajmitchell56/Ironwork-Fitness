@@ -1,5 +1,6 @@
 body {
    font-family: 'Noto Sans SC', sans-serif;
+   background-color: #f3f3f3;
 }
 
 .callout-container {
@@ -15,6 +16,49 @@ body {
     justify-content: center;
 }
 
+.nav-container h2 {
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    margin-top: 40px;
+}
+
+.nav-container img {
+    margin-top: 20px;
+    border-style: solid;
+    border-color: #5bc0de;
+}
+
+.nav-container p {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    color: black;
+}
+
+a i {
+    color: #e9ecef;
+    letter-spacing: 8px;
+}
+
+.covid-container {
+    border-style: solid;
+    border-color: grey;
+}
+
+.covid-container h2,h3 {
+    color: black;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.covid-container p {
+    color: black;
+    padding-top: 20px;
+    margin-bottom: 70px;
+}
+
 .navbar-brand{
     font-family: 'Bebas Neue', cursive;
     letter-spacing: 3px;
@@ -25,7 +69,7 @@ body {
     width: 150px;
     height: 5px;
     border: 0;
-    background-color: #7FFFD4;
+    background-color: #5bc0de;
     margin-top: 30px;
 }
 
@@ -33,12 +77,6 @@ body {
     border-radius: 20px;
     width: 140px;
     font-weight: bold;
-}
-
-.btn--white{
-    color: black;
-    background-color: white;
-    border-color: black;
 }
 
 /*jumbotron*/
@@ -57,4 +95,36 @@ body {
 .jumbotron p {
     color: white;
     margin-bottom: 20px;
+}
+
+footer {
+    background-color: #292b2c;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+}
+
+.btn-container {
+  height: 80px;
+  position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.footer-social {
+    text-align: center;
+    letter-spacing: 8px;
+    padding-bottom: 20px;
+    margin-top: 10px;
 }
