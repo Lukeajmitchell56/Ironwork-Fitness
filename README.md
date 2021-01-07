@@ -1,6 +1,49 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+IronWorks Fitness READ.me
 
-Welcome Lukeajmitchell56,
+<!----5 Planes of UX Design---->
+
+Website: Ironworks Fitness
+
+User Goals: To gain knowledge about the gym and what it has to offer. They may wish to look into classes to attend, or contact 
+the gym if they have any questions. They may potentially want to know what measures are in place to reduce the spread of coronavirus.
+
+Site Owner Goals: The site owner will want the people that visit the website to want to sign up for a membership, by informing them about all the 
+things the gym has to offer. 
+
+<!----Strategy Plane---->
+
+Focus:
+- Gallery
+- Contact Information
+- Map/ location of the gym
+- Information about the classes the gym offers
+- Sign Up Modal
+- Social Media links 
+- Social Distancing measures
+
+The focuses listed above are essential for the website to contain as this is the information that a user will be looking for to decide wheather 
+they want to become a member at the gym or not.
+
+The target audience of the site will be 16+ as this is the age where gyms will allow you to lift actual weights at the gym. Content should be simplistic so that 
+the older generation of visitors can navigate their way around the site relatively easy to find the information they need.
+
+Definition:
+I am creating a website to inform the existing members about classes that the gym has to offer them, in case they want to change up their usual standard
+gym workouts with something like indoor cycling with a group or yoga.
+
+The site is also for potential members and aims to get them to sign up for a membership to recieve exclusive members benefits.
+
+A clean and simple colour scheme will help to attract people to the aesthetic of the site.
+
+Value:
+The value of this site to potential members is that they will understand the measures in place for covid-19, and find out what the gyms contact information is.
+Information on the classes can also be found easily on the classes page, along with reviews. 
+
+The gallery page will produce some photos to the users of the site to show them what the atmoshphere and comminity is like at the gym.
+
+<!----Scope Plane---->
+
+
 
 Found on Pexels.com
 
@@ -19,44 +62,3 @@ Image by <a href="https://pixabay.com/users/shafin_protic-16278454/?utm_source=l
 
 Image by <a href="https://pixabay.com/users/dapple-designers-7874104/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5000684">digital designer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5000684">Pixabay</a>
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
-
-## Gitpod Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
-
-`python3 -m http.server`
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
