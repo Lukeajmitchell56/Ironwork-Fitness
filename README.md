@@ -43,6 +43,64 @@ The gallery page will produce some photos to the users of the site to show them 
 
 <!----Scope Plane---->
 
+features to include:
+- Covid-19 measures 
+- gallery
+- contact info
+- Map
+- Class Information
+- Social Media links
+- Clear Navigation
+- Sign Up
+- Class reviews
+
+Features to include if I have time?
+- Events
+- Hiring personal trainers
+- FAQ
+
+User Stories - 
+
+Scenario 1:                             
+Customer Views site and wants to become a member
+
+requirement: 
+Option to sign up and become a member. Reminders to the user 
+throughout the site and on each page to keep the thought fresh in
+their mind
+
+----
+
+Scenario 2:
+User wishes to contact gym regarding a question they have 
+
+Requirement:
+Contact information and clear links to social media if they wish to 
+reach out that way.
+
+----
+
+Scenario 3: 
+User would like to find out about available classes and times 
+for them.
+
+Requirement:
+Information about classes, followed by reviews from members that have/ do
+participate in the classes regularly
+
+-----
+
+Scenario 4: 
+Someone would like to know about the measures in place to reduce the
+spread of covid-19 whilst at the gym
+
+Requirement:
+Container on the home page with the different ways the gym is working
+to reduce transmission of covid-19
+
+<!----Structure Plane---->
+
+
 
 
 Found on Pexels.com
