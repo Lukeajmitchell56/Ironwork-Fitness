@@ -138,6 +138,52 @@ footer p {
     margin-top: 40px;
 }
 
+.classes-container {
+    margin-top: 40px;
+}
+
+.classes-container img {
+    margin-bottom: 30px;
+    border: solid;
+    border-color: #5bc0de;
+}
+
+.class-info1 {
+    margin-top: 120px;
+    margin-left: -40px;
+    line-height: 34px;
+    
+}
+
+.class-info2 {
+    margin-top: 220px;
+    margin-left: -40px;
+    line-height: 34px;
+}
+
+.class-info3 {
+    margin-top: 230px;
+    margin-left: -40px;
+    line-height: 34px;
+}
+
+#review-title {
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    margin-top: 40px;
+}
+
+.review-content {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.review-content img{
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-bottom: 20px;
+}
 /*----Contact CSS----*/
 
 .contact-container {

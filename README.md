@@ -109,6 +109,12 @@ Photo by Andrea Piacquadio from Pexels: https://www.pexels.com/photo/selective-f
 
 Photo by Gustavo Fring from Pexels: https://www.pexels.com/photo/photo-of-people-jogging-4148937/
 
+Photo by Andrea Piacquadio from Pexels: https://www.pexels.com/photo/man-in-black-suit-jacket-3831612/
+
+Photo by Luriko Yamaguchi from Pexels: https://www.pexels.com/photo/woman-near-house-2804282/
+
+Photo by Gabby K from Pexels: https://www.pexels.com/photo/handsome-young-ethnic-guy-looking-at-camera-and-smiling-5384445/
+
 <span>Photo by <a href="https://unsplash.com/@visualsbyroyalz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Anastase Maragos</a> on <a href="https://unsplash.com/s/photos/gym?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 
 Found on Pixabay.com
@@ -119,4 +125,5 @@ Image by <a href="https://pixabay.com/users/febrianes86-5873902/?utm_source=link
 Image by <a href="https://pixabay.com/users/shafin_protic-16278454/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5306538">Shafin Al Asad Protic</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5306538">Pixabay</a>
 
 Image by <a href="https://pixabay.com/users/dapple-designers-7874104/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5000684">digital designer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5000684">Pixabay</a>
+
 
