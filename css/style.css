@@ -131,10 +131,25 @@ footer p {
 
 /*----Classes CSS----*/
 
-.classes {
-    padding-left: 40px;
-    padding-top: 20px;
-    text-align: center;
+#class-title {
+    text-decoration: underline;
+    font-weight: bold;
+    color: black;
+    margin-top: 40px;
 }
 
+#cycle-p {
+    float: right;
+}
 
+.class-img {
+    margin-top: 20px;
+    border-style: solid;
+    border-color: #5bc0de;
+}
+
+/*----Contact CSS----*/
+
+.contact-map {
+    border: #292b2c;
+}
