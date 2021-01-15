@@ -192,3 +192,14 @@ Problem: Can not get the paragraph to move down underneath the opening times and
 
 Solution: Needed to hard reset. Did not know this was a thing until now. Will be quite useful.
 
+<!----Deployment Process---->
+
+".git add ." - Adds all recently done work ready to be committed.
+".git status" - Check to make sure everything has been added.
+".git commit -m "message"" - Commits code ready to be pushed.
+".git push" - Pushes code to the repository.
+
+Go to repositories and go to settings on the website repository
+Scroll to github pages and select 'master branch'
+
+Website should be up and running on: https://lukeajmitchell56.github.io/Ironwork-Fitness/
