@@ -100,8 +100,41 @@ to reduce transmission of covid-19
 
 <!----Structure Plane---->
 
+The seeable homepage upon landing on the site will have more information creeping into site at the bottom of the it when the page first loads up.
+A 'sign up' button will be the central focus of the homepage as this is the end goal after the user has decided whether they wish to become a member or not.
+
+I have opted for a color scheme of light blue, grey and a subtle off-white color. These colors will make espects such as images and buttons pop out, whilst also
+keeping all the information clear and readable.
+
+Navigation will be done through a navigation bar at the top, social media icons and buttons throughout the pages of the site. For user friendliness, these will be light blue or white in the nav/ footer
+so the user can find them easily.
+
+The presentation of the site will be relatively spread out and easy for the user of the website to digest, and make the UX as clean and clear as possible.
+
+<!----Skeleton Plane---->
+
+The landing page will have a master image of somebody performing an exercise, along with a 'Sign Up' button and a motivational quote.
+
+Further down the page, brief information about the offering of classes to members will be shown, along with a link to the gallery page if the
+user wishes to view the images taken at the gym.
+
+Reviews will be shown next to stock photos of people on the classes page, to entice the user into following in their words, and starting a class, whether through a membership or not.
+
+The gallery page will consist of images of people having fun and working out at the gym. This may potentially motivate members to sign up. 
+
+Top priority content will be at the top of each page, as this is the information that is most important for the user to see.
+
+<!----Surface Plane---->
+
+Information will be contextual to each page, starting with the most important information at the top of each page of the site. 
+
+Colors of the site will be dark grey, off white and light blue. This should provide a good amount of color without overwhelming the site with color and making for 
+a bad user experience. 
+
+I plan to use the fonts 'Bebas Neue' and 'Noto Sans SC' for the website. I feel the Bebas Neue provides a nice heading, and the Noto Sans SC is a simplistic text for paragraphs etc.
 
 
+<!----Image Sources---->
 
 Found on Pexels.com
 
@@ -129,6 +162,9 @@ Image by <a href="https://pixabay.com/users/dapple-designers-7874104/?utm_source
 
 <!----Index.html Bugs---->
 
+Problem: 'See more' buttons for classes and gallery not leading to the pages. 
+
+Solution: Changed the button element to an anchor tag and styled like a button.
 
 <!----Classes.html Bugs---->
 
@@ -145,9 +181,14 @@ by myself to make sure it looked good.
 
 <!----Gallery.html Bugs---->
 
+Problem: 'gallery' not highlited in nav bar when on the gallery page.
+
+Solution: changed the class to active on the gallery page of the navigation.
+
 
 <!----Contact.html Bugs---->
 
 Problem: Can not get the paragraph to move down underneath the opening times and contact information.
 
 Solution: Needed to hard reset. Did not know this was a thing until now. Will be quite useful.
+
