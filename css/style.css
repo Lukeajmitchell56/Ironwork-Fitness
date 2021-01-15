@@ -21,6 +21,8 @@ body {
     font-weight: bold;
     color: black;
     margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 4px;
 }
 
 .nav-container img {
@@ -51,6 +53,8 @@ a i {
     text-decoration: underline;
     font-weight: bold;
     margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
 }
 
 .covid-container p {
@@ -136,6 +140,8 @@ footer p {
     font-weight: bold;
     color: black;
     margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
 }
 
 .classes-container {
@@ -172,6 +178,8 @@ footer p {
     font-weight: bold;
     color: black;
     margin-top: 40px;
+    font-family: 'Bebas Neue', cursive;
+    letter-spacing: 3px;
 }
 
 .review-content {
@@ -179,11 +187,58 @@ footer p {
     margin-bottom: 60px;
 }
 
+.review-content h2 {
+    margin-left: 26%;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+}
+
 .review-content img{
     border-radius: 20px;
     margin-left: 300px;
     margin-bottom: 20px;
 }
+
+.right-content {
+    position:absolute; 
+    right:0;
+    margin-right: 30%;
+    margin-top: 70px;
+    line-height: 34px;
+}
+
+/*----Gallery CSS----*/
+
+.image-gallery {
+    column-count: 3;
+    margin-left: 8%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.image-solo {
+    margin-bottom: 40px;
+    border:solid;
+    border-color: #5bc0de;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .image-gallery {
+        column-count: 1;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+
+    .image-gallery {
+        column-count: 2;
+    }
+}
+
+  
 /*----Contact CSS----*/
 
 .contact-container {

@@ -127,3 +127,27 @@ Image by <a href="https://pixabay.com/users/shafin_protic-16278454/?utm_source=l
 Image by <a href="https://pixabay.com/users/dapple-designers-7874104/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5000684">digital designer</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5000684">Pixabay</a>
 
 
+<!----Index.html Bugs---->
+
+
+<!----Classes.html Bugs---->
+
+Problem: Can not get the text for the classes information to move to the left of the div.
+
+Solution: Created 2 columns, one for the image and class name, and one for the paragraph about the class. Added a class and some padding to each paragraph
+and seems to be working fine now.
+
+Problem: Could not get part of div to move to the right of the rest of the content for the quotes. Found a piece of code to help fix it with position: right;.
+
+Solution: "position:absolute; right:0;" Source - https://stackoverflow.com/questions/12710843/want-to-move-a-particular-div-to-right . Plus some other margins put in place 
+by myself to make sure it looked good.
+
+
+<!----Gallery.html Bugs---->
+
+
+<!----Contact.html Bugs---->
+
+Problem: Can not get the paragraph to move down underneath the opening times and contact information.
+
+Solution: Needed to hard reset. Did not know this was a thing until now. Will be quite useful.
